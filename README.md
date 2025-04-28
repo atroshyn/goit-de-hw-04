@@ -7,4 +7,4 @@
 ![Screenshot_2](https://github.com/user-attachments/assets/4cb6ae6e-ef16-4ff8-bc06-e1317347e723)
 
 Нажаль, не можу похвалитися коректною роботою Спарку через небажання працювати pyspark у Visual Studio Code.
-Через Google Colab не вийшло зробити, презентую що є та претендую в цій задачі хоча б на 60 балів.
+Через Google Colab не вийшло зробити, тому презентую що вже є.
